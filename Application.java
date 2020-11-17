@@ -6,7 +6,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		int n,m =0;
-		BLOImpl bLOImpl =new BLOImpl();
+		BLOImpl bLOImpl =new BLOImpl();						//creating object for Business level operations Implementation class which is inside same package
 		Scanner sc=new Scanner(System.in);
 		do {
 		System.out.println("************************************************************************** \n");
@@ -20,7 +20,7 @@ public class Application {
 		
 		n=sc.nextInt();
 		
-		switch(n) {
+		switch(n) {									//outer switch 
 		
 		case 1: 
 			bLOImpl.getAllFiles();
@@ -38,7 +38,7 @@ public class Application {
 			m=sc.nextInt();
 				
 		
-			switch(m) {
+			switch(m) {								// Inner switch 
 			
 			case 1:
 				
@@ -79,7 +79,7 @@ public class Application {
 			}
 		}
 	while(n!=3);
-		//sc.close();
+		
 	
 	
 	}	
