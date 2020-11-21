@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Application {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		int n,m =0;
-		BLOImpl bLOImpl =new BLOImpl();						//creating object for Business level operations Implementation class which is inside same package
+		BLOImpl bLOImpl =new BLOImpl();
 		Scanner sc=new Scanner(System.in);
 		do {
 		System.out.println("************************************************************************** \n");
@@ -20,7 +20,7 @@ public class Application {
 		
 		n=sc.nextInt();
 		
-		switch(n) {									//outer switch 
+		switch(n) {
 		
 		case 1: 
 			bLOImpl.getAllFiles();
@@ -28,6 +28,7 @@ public class Application {
 		
 		case 2:
 			do {
+				System.out.println("********* Business Level Operations menu was Selected *********");
 			System.out.println("Enter your choice for Business level operation 1,2,3,4: \n");
 
 			System.out.println("1. Add a file and its content to a directory: \n");
@@ -38,7 +39,7 @@ public class Application {
 			m=sc.nextInt();
 				
 		
-			switch(m) {								// Inner switch 
+			switch(m) {
 			
 			case 1:
 				
@@ -69,7 +70,8 @@ public class Application {
 			
 	
 		case 3:
-			System.out.println("Exited from the application");
+			System.out.println("Exited from the application... BYE");
+			System.exit(0);
 			break;
 		
 		default:
@@ -79,7 +81,7 @@ public class Application {
 			}
 		}
 	while(n!=3);
-		
+		//sc.close();
 	
 	
 	}	
