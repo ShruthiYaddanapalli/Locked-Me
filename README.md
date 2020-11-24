@@ -15,7 +15,23 @@ Among the three operations mentioned above we have again four business level ope
 3. Option to search a user specified file from the application
 4. Navigation option to close the current execution context and return to the main context
 
+Screen shots of all options output of application will be found below in this document,
 
+
+The starting page of application will be:
+
+By selecting main menu option 1:
+1
+****** Retrieved files are ********
+.DS_Store
+.classpath
+.project
+abc.txt
+files2.txt
+myfile.txt
+test.txt
+text.txt
+xyz.txt
 
 
 
