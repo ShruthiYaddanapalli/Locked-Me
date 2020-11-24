@@ -18,32 +18,32 @@ Among the three operations mentioned above we have again four business level ope
 Screen shots of all options output of application will be found below in this document,
 
 
-The starting page of application will be:
-![appstarting](https://user-images.githubusercontent.com/59723251/100117993-68eb6d00-2e9b-11eb-8296-2e93ffa96be2.png)
+1. The starting page of application will be:
+![appstarting](https://user-images.githubusercontent.com/59723251/100122430-5f640400-2e9f-11eb-9ed5-4196cd65cf6b.png)
 
 
-By selecting main menu option 1 in the Main Menu:
+2. By selecting main menu option 1 in the Main Menu:
 ![option1](https://user-images.githubusercontent.com/59723251/100118433-da2b2000-2e9b-11eb-89b4-3c8eb7816dfd.png)
 
 
-By Selecting the option 2 in Main Menu and Selecting option 1 in BLO Menu to add a file:
+3. By Selecting the option 2 in Main Menu and Selecting option 1 in BLO Menu to add a file:
 ![add a file](https://user-images.githubusercontent.com/59723251/100119076-7b19db00-2e9c-11eb-8da9-679a73c1fe7f.png)
 
 
-By Selecting option 2 in Main Menu and option 2 in BLO Menu to delete a file from directory:
+4. By Selecting option 2 in Main Menu and option 2 in BLO Menu to delete a file from directory:
 ![deletefile](https://user-images.githubusercontent.com/59723251/100119258-ac92a680-2e9c-11eb-885b-afd7d21d24e7.png)
 
 
-By Selecting option 2 in Main Menu and option 3 in BLO Menu to search a file in directory:
+5. By Selecting option 2 in Main Menu and option 3 in BLO Menu to search a file in directory:
 ![search](https://user-images.githubusercontent.com/59723251/100119349-c7fdb180-2e9c-11eb-8682-5680b09995aa.png)
 
 
-By Selecting option 2 in Main Menu and option 4 in BLO Menu to Navigate back to Main Menu(Exit from BLO):
+6. By Selecting option 2 in Main Menu and option 4 in BLO Menu to Navigate back to Main Menu(Exit from BLO):
 ![returntomainmenu](https://user-images.githubusercontent.com/59723251/100119749-3773a100-2e9d-11eb-85c3-5ca42dfe4c03.png)
 
 
-By selecting option 3 in Main Menu Application will be exited:
-![Bye](https://user-images.githubusercontent.com/59723251/100119977-77d31f00-2e9d-11eb-8e0c-2d99d4df333e.png)
+7. By selecting option 3 in Main Menu Application will be exited:
+![Bye](https://user-images.githubusercontent.com/59723251/100121157-cd5bfb80-2e9e-11eb-9ad2-c18810109c05.png)
 
 
 
