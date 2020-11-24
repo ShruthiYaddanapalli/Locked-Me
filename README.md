@@ -43,7 +43,8 @@ By Selecting option 2 in Main Menu and option 4 in BLO Menu to Navigate back to 
 
 
 After returing to Main Menu we have 3 options available. 
-Option 1 and 2 are already shown above and by selecting option 3 Application will be exited:
+Option 1 and 2 are already shown above and 
+by selecting option 3 Application will be exited:
 ![Bye](https://user-images.githubusercontent.com/59723251/100119977-77d31f00-2e9d-11eb-8e0c-2d99d4df333e.png)
 
 
